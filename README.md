@@ -1,4 +1,4 @@
-# 天语 SX4 汽车机械实验室
+# 天语 SX4 汽车
 
 [打开交互项目](https://jundawu5.github.io/projects/sx4/)
 
