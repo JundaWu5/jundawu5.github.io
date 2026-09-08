@@ -1,0 +1,12 @@
+{
+  "projects": [
+    {
+      "slug": "sx4",
+      "title": "天语 SX4 汽车机械实验室",
+      "description": "交互式三维教学项目：认识发动机舱、底盘、车内零件，以及四冲程、自动变速和前轮驱动。",
+      "category": "交互教学项目",
+      "url": "projects/sx4/",
+      "download": "projects/sx4/index.html"
+    }
+  ]
+}
